@@ -1,0 +1,9 @@
+pip3 install --user jedi
+
+ufw
+git
+PyYAML
+numpy
+pandas
+matplotlib
+plotly-express
