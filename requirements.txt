@@ -1,5 +1,3 @@
-pip3 install --user jedi
-
 ufw
 git
 PyYAML
